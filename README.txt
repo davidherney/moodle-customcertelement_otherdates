@@ -1,7 +1,7 @@
 Customcert element
 ============================
 
-Customcert element to show extra dates.
+Customcert element to display extra dates.
 
 Package tested in: moodle 3.11+.
 
